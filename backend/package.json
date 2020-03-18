@@ -1,0 +1,22 @@
+{
+  "name": "backend_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r esm src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.2"
+  }
+}

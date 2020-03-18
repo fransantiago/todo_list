@@ -1,0 +1,15 @@
+.markAsDone {
+  text-decoration: line-through;
+}
+
+.btn {
+  margin-right: 0.4em;
+}
+
+.border-gray {
+  border: 0.5px solid rgba(119, 119, 119, 0.4) !important;
+}
+
+.border-gray:hover {
+  border: 0.5px solid rgba(119, 119, 119, 1) !important;
+}
